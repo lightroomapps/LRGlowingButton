@@ -19,3 +19,6 @@ button.glowsWhenHighlighted = YES;
 button.highlightedGlowColor = [UIColor whiteColor];
 [self.view addSubview:button];
 ```
+## Result
+
+![LRGlowingButton Example](https://s3.amazonaws.com/cocoacontrols_production/uploads/control_image/image/1249/original.png)
