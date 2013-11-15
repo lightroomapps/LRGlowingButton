@@ -21,4 +21,7 @@ button.highlightedGlowColor = [UIColor whiteColor];
 ```
 ## Result
 
-![LRGlowingButton Example](https://s3.amazonaws.com/cocoacontrols_production/uploads/control_image/image/1249/original.png)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Example White](https://raw.github.com/lightroomapps/LRGlowingButton/assets/Example1.png)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Example Red](https://raw.github.com/lightroomapps/LRGlowingButton/assets/Example2.png)
