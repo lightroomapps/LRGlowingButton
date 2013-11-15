@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.license      = { :type => 'MIT', :file => 'LICENSE' }
     s.author       = { "Nikita Lutsenko" => "http://lightroomapps.com" }
     s.platform     = :ios, '5.0'
-    s.source       = { :git => "git@github.com/lightroomapps/LRGlowingButton.git", :tag => "0.2" }
+    s.source       = { :git => "https://github.com/lightroomapps/LRGlowingButton.git", :tag => "0.2" }
     s.source_files = 'LRGlowingButton.{h,m}'
     s.framework    = 'QuartzCore'
 end
